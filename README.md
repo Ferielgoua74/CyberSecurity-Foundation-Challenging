@@ -1,4 +1,14 @@
-# CyberSecurity-Foundation-Challenging
+# Vigenère Cipher Cryptanalysis
+
+This project demonstrates the process of decrypting a ciphertext encoded with the **Vigenère Cipher** using frequency analysis.
+
+## Overview
+
+The Vigenère cipher is a method of encrypting alphabetic text by using a simple form of polyalphabetic substitution. This program performs cryptanalysis of the cipher by analyzing the frequency of letters in the ciphertext, which helps in determining the key length and subsequently the key used for decryption.
+
+### Ciphertext
+
+The following ciphertext was provided for decryption:
 
 ## Code
 
