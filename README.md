@@ -8,7 +8,8 @@ The Vigenère cipher is a method of encrypting alphabetic text by using a simple
 
 ### Ciphertext
 
-The following ciphertext was provided for decryption:
+The following ciphertext was provided for Instructionss :
+Cryptanalysis of the Vigen`ere Cipher This following ciphertext was encrypted using the Vigen`ere Cipher, where all spaces and punctuation were removed. Decrypt it, using any tool you like: XUKW LGEE YINN WBVL BWKU VXUC XLQY FJSH NHNV PRCW GQRP GMAA SHTP VHIO TSJU IGJI JGFS QVFQ QRMM AFIE IEEV IAEV LRXB VSBN WNUC BWWR GWRX IECP BHXU GQNT INXE VNEO NINP HNTI DWMG GEON IGQT RTJB TQNH VRSY RPGL CRNN CFKW NPHG JYFV SRXI AIYR UWGJ IFGG EGXX GCBH XUKW PKTU GVCN ELKR TCVB WRQY MGJX UGQP CROG EYQX BHJH PFHV RBYT YGEF GJBT KRVE OQYG VLVU EAEM RPXF VYSH JBTX UGVR UXBH XUKW PQYE UIVP XUGV ROEV PHRT SSVL RESH TWRY IJKP YHSP WWBP QBTI RNEO QVNV ISQV ZUSS UIPW VVVC GJEG EEAP SGDI OTSX GROA WHEL NUMZ RPRV IPJR VSYR
 
 ## Code
 
